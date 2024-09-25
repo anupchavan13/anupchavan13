@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Next.js and Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me: (https://www.instagram.com/name_is_anupchavan/)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I can talk code just as easily as I can talk coffee! ☕
 
 <!---
